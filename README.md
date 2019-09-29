@@ -14,6 +14,6 @@ And this part was added at step 8 in testBranch.
 
 This section was added at step 12 and pushed to GitHub at step 13!
 
-# Step 16 conflict added by My Friend
+# Step 16 conflict added by My Friend and Dmitrii
 
-This was added by My Friend!
+This was added by My Friend and Dmitrii Slepnev! We have solved the conflict by incorporating both changes into the final merge.
