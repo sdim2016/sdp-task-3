@@ -13,3 +13,7 @@ And this part was added at step 8 in testBranch.
 # Step 12 modification
 
 This section was added at step 12 and pushed to GitHub at step 13!
+
+# Step 16 conflict added by Dmitrii
+
+This was added by Dmitrii Slepnev!
